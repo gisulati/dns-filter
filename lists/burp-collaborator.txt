@@ -1,0 +1,9 @@
+! Title: Threat Filter Lists - Burp Collaborator
+! Description: Rules for Burp Collaborator and OAST-related traffic.
+! Source: Curated security indicators
+! Format: Adblock Plus-compatible rules
+! Last reviewed: 2026-10-09
+! False positives: Report through the repository Issues page
+
+! Burp Collaborator
+@@||polling.oastify.com^$important
