@@ -1,0 +1,17 @@
+! Title: Threat Filter Lists — Lumu Allowlist
+! Description: Allowlist for Lumu services and agent communications.
+! Source: https://docs.lumu.io/portal/en/kb/articles/lumu-agent-firewall-whitelisting
+! Format: Adblock Plus-compatible rules
+! Last reviewed: 2026-10-09
+! Purpose: Prevent filtering of required Lumu services.
+
+! Lumu platform and API
+@@||api.lumu.io^
+@@||lumu.io^
+@@||docs.lumu.io^
+@@||packages.lumu.io^
+
+! Lumu updates
+@@||updates.lumu.io^
+@@||client-updates.lumu.io^
+@@||lumu-updates.s3.us-east-1.amazonaws.com^
