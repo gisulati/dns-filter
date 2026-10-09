@@ -1,0 +1,11 @@
+! Title: Threat Filter Lists — Iberlayer Threats
+! Description: Domains associated with reported security threats.
+! Source: Iberlayer security notifications
+! Format: Adblock Plus-compatible rules
+! Last reviewed: 2026-10-09
+! False positives: Report through the repository Issues page
+
+! Reported threat indicators
+||buzzvideo.online^
+||auth-code-verif.bee^
+||espana-notario.wetransfer.com^
