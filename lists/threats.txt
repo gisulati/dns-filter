@@ -29,3 +29,8 @@
 ||id.xn--ios-cna42b.com^$important
 ||ionosfree.info^$important
 ||previewship.net^$important
+
+! Reported threat indicators
+||buzzvideo.online^
+||auth-code-verif.bee^
+||espana-notario.wetransfer.com^
