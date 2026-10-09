@@ -1,1 +1,31 @@
+! Title: Threat Filter Lists — Phishing Domains
+! Description: Domains associated with phishing, impersonation and other suspicious activity.
+! Source: Curated security indicators, Sekoia Feed IOC and phishing email analysis
+! Format: Adblock Plus-compatible rules
+! Last reviewed: 2026-10-09
+! False positives: Report through the repository Issues page
 
+! Santander impersonation
+||ateliercavanna.com^
+||horiznsoft.co^
+
+! DGT impersonation
+||encuentronudista.org^
+||karprope.com^
+
+! Sekoia Feed IOC
+||caz-tec.click^$important
+||kadirakyol.com^$important
+||temuaffiliateprogram.pxf.io^$important
+||boncheumbrella.sbs^$important
+||mahitabefish.club^$important
+||speedyconnectedlink.com^$important
+||bandcampe.com^$important
+||l2hkvtrk.com^$important
+||cloudserver85.com^$important
+||sidentin.edu.eu.org^$important
+
+! Detected in phishing emails
+||id.xn--ios-cna42b.com^$important
+||ionosfree.info^$important
+||previewship.net^$important
