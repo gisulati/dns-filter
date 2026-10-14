@@ -30,6 +30,14 @@
 ||ionosfree.info^$important
 ||previewship.net^$important
 
+! We've blocked your account! 🚫 Your photos and videos will be deleted on 10-14-2026 ⚠️ Renew your subscription for free
+||energy-cozy-protect-stairs.autos^$important
+||mud-me-fall-boy.run^$important
+||superiansecurity.com^$important
+||efianalytics.com^$important
+||dutcacisa.biz^$important
+||vevida.net^$important
+
 ! Reported threat indicators
 ||buzzvideo.online^
 ||auth-code-verif.bee^
